@@ -24,7 +24,7 @@
 </form>
 </div>
 
-<div >
+<div>
     <br />
     
     <p>
@@ -39,10 +39,10 @@
   
     <p>
         <span class="glyphicon glyphicon-home"></span>
-        &nbsp;Av. Guaporé, 1020, casa 2 – Indaiá, Caraguatatuba, SP (endereço)
+        &nbsp;Av. Guaporé, 1020, casa 2 – Indaiá, Caraguatatuba, SP
     </p>
     <p>
-        &nbsp; &nbsp; &nbsp; CEP: 11.665-090 (se achar necessário)
+        &nbsp; &nbsp; &nbsp; CEP: 11.665-090
     </p>
 
 </div>

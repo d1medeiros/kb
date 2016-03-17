@@ -206,7 +206,16 @@
   </div>
 </div>
             
-            
+      
+      
+      
+<div class="panel panel-default">
+ 	<div class="panel-heading">Parceiros</div>
+    <div class="panel-body">
+    <p>Studio Burman</p>
+    <p>Fashion Art Direction</p>
+    </div>
+</div>            
             
             
   		</div>
