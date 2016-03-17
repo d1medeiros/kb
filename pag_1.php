@@ -113,6 +113,15 @@ Na parceria com a KB participa fortemente nos projetos de identidade visual e em
             
   		</div>
 	</div>
+    
+    
+    <ul class="breadcrumb text-right">
+  <li><a href="index.php">Home</a></li>
+  <li><a href="pag_1.php">Quem somos</a></li>
+  <li><a href="pag_2.php">O que fazemos</a></li>
+  <li><a href="pag_5.php">Clientes</a></li>
+  <li><a href="pag_3.php">Contato</a></li>
+</ul> 
 </div>
 
    

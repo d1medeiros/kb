@@ -20,7 +20,7 @@
   <label for="comment">Comentários:</label>
   <textarea class="form-control" rows="5" id="comment" name="comment"></textarea>
   </div>
-  <button type="submit" class="btn btn-default">Submit</button>
+  <button type="submit" class="btn btn-default">Enviar</button>
 </form>
 </div>
 
@@ -49,6 +49,15 @@
    
   		</div>
 	</div>
+    
+    <ul class="breadcrumb text-right">
+  <li><a href="index.php">Home</a></li>
+  <li><a href="pag_1.php">Quem somos</a></li>
+  <li><a href="pag_2.php">O que fazemos</a></li>
+  <li><a href="pag_5.php">Clientes</a></li>
+  <li><a href="pag_3.php">Contato</a></li>
+</ul> 
+    
 </div>
 
 
