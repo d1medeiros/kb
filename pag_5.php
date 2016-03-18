@@ -4,7 +4,7 @@
 	<div class="panel-heading">Clientes</div>
   		<div class="panel-body">
     		
-            
+    <p>Marcas que já realizaram algum projeto com KB</p>        
             
             <!-- thumbnails -->
   <!-- thumbnails -->

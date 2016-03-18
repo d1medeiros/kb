@@ -29,21 +29,32 @@
     
     <p>
         <span class="glyphicon glyphicon-earphone"></span>
-        &nbsp;(12) 3883-6537
+        &nbsp;(12) 3881-3689
     </p>
   
     <p>
         <span class="glyphicon glyphicon-modal-window"></span>
-        &nbsp;(21) 99499-9676
+        &nbsp;(11) 93014-1011
+    </p>
+    
+    <p>
+        <span><img src="img/whatsApp.png" width="16" height="16" alt=""/></span>
+        &nbsp;(21) 98105-1011
     </p>
   
     <p>
-        <span class="glyphicon glyphicon-home"></span>
-        &nbsp;Av. Guaporé, 1020, casa 2 – Indaiá, Caraguatatuba, SP
-    </p>
+        <span class="glyphicon glyphicon-envelope"></span>
+        &nbsp;katia@kbmkt.com.br
+	</p>
     <p>
-        &nbsp; &nbsp; &nbsp; CEP: 11.665-090
+        <span class="glyphicon glyphicon-envelope"></span>
+		&nbsp;gabriela@kbmkt.com.br
+	</p>
+	<p>
+        <span class="glyphicon glyphicon-envelope"></span>
+		&nbsp;contato@kbmkt.com.br
     </p>
+  
 
 </div>
    

@@ -110,6 +110,12 @@ Na parceria com a KB participa fortemente nos projetos de identidade visual e em
 </div>
 
 
+<div class="panel panel-default">
+    <div class="panel-heading">Nosso Sonho</div>
+</div>
+
+<h4 class="text-center"><b>“ Construir um mundo melhor através de marcas mais conscientes!”</b></h4>
+
             
   		</div>
 	</div>
